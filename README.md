@@ -1,4 +1,4 @@
-tgeo
+Taguato Note
 ====
 
-geolocalización
+Aplicación básica de Geolocalización
